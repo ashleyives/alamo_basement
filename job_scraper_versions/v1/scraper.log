@@ -1,0 +1,299 @@
+2026-04-15 19:14:54,089 [INFO] ============================================================
+2026-04-15 19:14:54,089 [INFO] Job scraper started � 2026-04-15 19:14
+2026-04-15 19:14:54,089 [INFO] ============================================================
+2026-04-15 19:14:54,089 [INFO] --- Searching: mass spectrometry ---
+2026-04-15 19:14:54,089 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:14:58,367 [INFO] Indeed [mass spectrometry]: 0 jobs
+2026-04-15 19:15:02,192 [INFO] Nature Careers [mass spectrometry]: 0 jobs
+2026-04-15 19:15:05,374 [INFO] New Scientist [mass spectrometry]: 0 jobs
+2026-04-15 19:15:07,581 [INFO] Science Careers [mass spectrometry]: 0 jobs
+2026-04-15 19:15:10,628 [INFO] BioSpace [mass spectrometry]: 0 jobs
+2026-04-15 19:15:12,450 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:15:14,140 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:15:15,850 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:15:17,371 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:15:18,872 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:15:20,376 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:15:24,878 [INFO] WA Employers [mass spectrometry]: 0 jobs
+2026-04-15 19:15:26,878 [INFO] --- Searching: proteomics ---
+2026-04-15 19:15:26,878 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:15:31,169 [INFO] Indeed [proteomics]: 0 jobs
+2026-04-15 19:15:35,488 [INFO] Nature Careers [proteomics]: 0 jobs
+2026-04-15 19:15:38,345 [INFO] New Scientist [proteomics]: 0 jobs
+2026-04-15 19:15:40,513 [INFO] Science Careers [proteomics]: 0 jobs
+2026-04-15 19:15:43,346 [INFO] BioSpace [proteomics]: 0 jobs
+2026-04-15 19:15:45,300 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:15:46,997 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:15:48,682 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:15:50,209 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:15:51,713 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:15:53,217 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:15:57,520 [INFO] WA Employers [proteomics]: 0 jobs
+2026-04-15 19:15:59,521 [INFO] --- Searching: top-down proteomics ---
+2026-04-15 19:15:59,521 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:16:03,826 [INFO] Indeed [top-down proteomics]: 0 jobs
+2026-04-15 19:16:07,834 [INFO] Nature Careers [top-down proteomics]: 0 jobs
+2026-04-15 19:16:11,692 [INFO] New Scientist [top-down proteomics]: 0 jobs
+2026-04-15 19:16:13,852 [INFO] Science Careers [top-down proteomics]: 0 jobs
+2026-04-15 19:16:16,355 [INFO] BioSpace [top-down proteomics]: 0 jobs
+2026-04-15 19:16:18,149 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:16:19,955 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:16:21,664 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:16:23,187 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:16:24,690 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:16:26,191 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:16:30,545 [INFO] WA Employers [top-down proteomics]: 0 jobs
+2026-04-15 19:16:32,547 [INFO] --- Searching: analytical chemistry research scientist ---
+2026-04-15 19:16:32,547 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:16:36,888 [INFO] Indeed [analytical chemistry research scientist]: 0 jobs
+2026-04-15 19:16:42,537 [INFO] Nature Careers [analytical chemistry research scientist]: 0 jobs
+2026-04-15 19:16:45,522 [INFO] New Scientist [analytical chemistry research scientist]: 0 jobs
+2026-04-15 19:16:47,634 [INFO] Science Careers [analytical chemistry research scientist]: 0 jobs
+2026-04-15 19:16:50,021 [INFO] BioSpace [analytical chemistry research scientist]: 0 jobs
+2026-04-15 19:16:51,822 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:16:53,664 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:16:55,343 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:16:56,870 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:16:58,370 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:16:59,874 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:17:04,181 [INFO] WA Employers [analytical chemistry research scientist]: 0 jobs
+2026-04-15 19:17:06,182 [INFO] --- Searching: protein biochemistry scientist ---
+2026-04-15 19:17:06,182 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:17:10,427 [INFO] Indeed [protein biochemistry scientist]: 0 jobs
+2026-04-15 19:17:14,173 [INFO] Nature Careers [protein biochemistry scientist]: 0 jobs
+2026-04-15 19:17:17,097 [INFO] New Scientist [protein biochemistry scientist]: 0 jobs
+2026-04-15 19:17:19,155 [INFO] Science Careers [protein biochemistry scientist]: 0 jobs
+2026-04-15 19:17:21,452 [INFO] BioSpace [protein biochemistry scientist]: 0 jobs
+2026-04-15 19:17:23,149 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:17:24,834 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:17:26,585 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:17:28,252 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:17:29,755 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:17:31,259 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:17:35,550 [INFO] WA Employers [protein biochemistry scientist]: 0 jobs
+2026-04-15 19:17:37,551 [INFO] --- Searching: mass spectrometry scientist ---
+2026-04-15 19:17:37,551 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:17:41,805 [INFO] Indeed [mass spectrometry scientist]: 0 jobs
+2026-04-15 19:17:45,836 [INFO] Nature Careers [mass spectrometry scientist]: 0 jobs
+2026-04-15 19:17:48,970 [INFO] New Scientist [mass spectrometry scientist]: 0 jobs
+2026-04-15 19:17:51,046 [INFO] Science Careers [mass spectrometry scientist]: 0 jobs
+2026-04-15 19:17:53,719 [INFO] BioSpace [mass spectrometry scientist]: 0 jobs
+2026-04-15 19:17:55,428 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:17:58,119 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:17:59,815 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:18:01,488 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:18:02,989 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:18:04,490 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:18:08,829 [INFO] WA Employers [mass spectrometry scientist]: 0 jobs
+2026-04-15 19:18:10,830 [INFO] --- Searching: analytical scientist proteomics ---
+2026-04-15 19:18:10,830 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:18:15,108 [INFO] Indeed [analytical scientist proteomics]: 0 jobs
+2026-04-15 19:18:19,144 [INFO] Nature Careers [analytical scientist proteomics]: 0 jobs
+2026-04-15 19:18:22,175 [INFO] New Scientist [analytical scientist proteomics]: 0 jobs
+2026-04-15 19:18:24,185 [INFO] Science Careers [analytical scientist proteomics]: 0 jobs
+2026-04-15 19:18:26,700 [INFO] BioSpace [analytical scientist proteomics]: 0 jobs
+2026-04-15 19:18:28,417 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:18:30,118 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:18:31,803 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:18:33,329 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:18:34,831 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:18:36,333 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:18:40,798 [INFO] WA Employers [analytical scientist proteomics]: 0 jobs
+2026-04-15 19:18:42,799 [INFO] --- Searching: research scientist chemistry ---
+2026-04-15 19:18:42,799 [WARNING] USAJobs API key not set � skipping USAJobs scrape.
+2026-04-15 19:18:47,052 [INFO] Indeed [research scientist chemistry]: 0 jobs
+2026-04-15 19:18:51,386 [INFO] Nature Careers [research scientist chemistry]: 0 jobs
+2026-04-15 19:18:54,697 [INFO] New Scientist [research scientist chemistry]: 0 jobs
+2026-04-15 19:18:56,893 [INFO] Science Careers [research scientist chemistry]: 0 jobs
+2026-04-15 19:18:59,226 [INFO] BioSpace [research scientist chemistry]: 0 jobs
+2026-04-15 19:19:00,945 [WARNING] Request error (1): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:19:02,658 [WARNING] Request error (2): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:19:04,354 [WARNING] Request error (3): HTTPSConnectionPool(host='uwhires.admin.washington.edu', port=443): Max retries exceeded with url: /ENG/Candidates/default.cfm?szCategory=jobboard (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2026-04-15 19:19:05,884 [WARNING] Request error (1): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:19:07,385 [WARNING] Request error (2): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:19:08,888 [WARNING] Request error (3): HTTPSConnectionPool(host='careers.fredhutch.org', port=443): Max retries exceeded with url: /search/?q=mass+spectrometry&startrow=0 (Caused by NameResolutionError("HTTPSConnection(host='careers.fredhutch.org', port=443): Failed to resolve 'careers.fredhutch.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-15 19:19:13,579 [INFO] WA Employers [research scientist chemistry]: 0 jobs
+2026-04-15 19:19:15,580 [INFO] Total unique jobs found: 0
+2026-04-15 19:19:15,580 [WARNING] No jobs found � check your API keys and network connectivity.
+2026-04-15 19:19:15,580 [INFO] Scraper finished � 2026-04-15 19:19
+2026-04-15 20:20:48,885 [INFO] ======================================================================
+2026-04-15 20:20:48,885 [INFO] Job scraper started — 2026-04-15 20:20
+2026-04-15 20:20:48,885 [WARNING] The following free API keys are not configured — those sources will be skipped:
+  • ADZUNA_APP_ID / ADZUNA_APP_KEY (https://developer.adzuna.com/)
+  • USAJOBS_API_KEY / USAJOBS_EMAIL (https://developer.usajobs.gov/)
+  • JOOBLE_API_KEY (https://jooble.org/api/about)
+Set them as environment variables or paste them at the top of job_scraper.py
+2026-04-15 20:20:48,886 [INFO] ── mass spectrometry ──
+2026-04-15 20:20:52,309 [INFO] jobs.ac.uk [mass spectrometry]: 0 jobs
+2026-04-15 20:20:53,312 [INFO] ── proteomics ──
+2026-04-15 20:20:55,973 [INFO] jobs.ac.uk [proteomics]: 0 jobs
+2026-04-15 20:20:56,974 [INFO] ── top-down proteomics ──
+2026-04-15 20:20:59,510 [INFO] jobs.ac.uk [top-down proteomics]: 0 jobs
+2026-04-15 20:21:00,512 [INFO] ── analytical chemistry research scientist ──
+2026-04-15 20:21:03,600 [INFO] jobs.ac.uk [analytical chemistry research scientist]: 0 jobs
+2026-04-15 20:21:04,601 [INFO] ── protein biochemistry scientist ──
+2026-04-15 20:21:07,332 [INFO] jobs.ac.uk [protein biochemistry scientist]: 0 jobs
+2026-04-15 20:21:08,334 [INFO] ── mass spectrometry scientist ──
+2026-04-15 20:21:10,687 [INFO] jobs.ac.uk [mass spectrometry scientist]: 0 jobs
+2026-04-15 20:21:11,688 [INFO] ── research scientist biochemistry ──
+2026-04-15 20:21:14,439 [INFO] jobs.ac.uk [research scientist biochemistry]: 0 jobs
+2026-04-15 20:21:15,440 [INFO] Total unique rows: 15
+2026-04-15 20:21:15,529 [INFO] Saved 15 rows to C:\Users\ashle\Documents\Claude\job_search\output\jobs_2026-04-15.xlsx
+2026-04-15 20:21:15,529 [INFO] Finished — 2026-04-15 20:21
+2026-04-15 20:42:38,111 [INFO] ======================================================================
+2026-04-15 20:42:38,111 [INFO] Job scraper started — 2026-04-15 20:42
+2026-04-15 20:42:38,111 [WARNING] The following free API keys are not configured — those sources will be skipped:
+  • ADZUNA_APP_ID / ADZUNA_APP_KEY (https://developer.adzuna.com/)
+  • USAJOBS_API_KEY / USAJOBS_EMAIL (https://developer.usajobs.gov/)
+  • JOOBLE_API_KEY (https://jooble.org/api/about)
+Set them as environment variables or paste them at the top of job_scraper.py
+2026-04-15 20:42:38,111 [INFO] ── mass spectrometry ──
+2026-04-15 20:42:53,045 [WARNING] All retries failed: https://www.jobs.ac.uk/search/?keywords=mass+spectrometry
+2026-04-15 20:42:54,048 [INFO] ── proteomics ──
+2026-04-15 20:42:57,420 [INFO] jobs.ac.uk [proteomics]: 0 jobs
+2026-04-15 20:42:58,425 [INFO] ── top-down proteomics ──
+2026-04-15 20:43:01,165 [INFO] jobs.ac.uk [top-down proteomics]: 0 jobs
+2026-04-15 20:43:02,171 [INFO] ── analytical chemistry research scientist ──
+2026-04-15 20:43:05,111 [INFO] jobs.ac.uk [analytical chemistry research scientist]: 0 jobs
+2026-04-15 20:43:06,115 [INFO] ── protein biochemistry scientist ──
+2026-04-15 20:43:09,057 [INFO] jobs.ac.uk [protein biochemistry scientist]: 0 jobs
+2026-04-15 20:43:10,059 [INFO] ── mass spectrometry scientist ──
+2026-04-15 20:43:12,620 [INFO] jobs.ac.uk [mass spectrometry scientist]: 0 jobs
+2026-04-15 20:43:13,627 [INFO] ── research scientist biochemistry ──
+2026-04-15 20:43:16,238 [INFO] jobs.ac.uk [research scientist biochemistry]: 0 jobs
+2026-04-15 20:43:17,240 [INFO] Real job listings: 0  |  Board search links: 48
+2026-04-15 20:43:17,427 [INFO] Saved 0 job rows + 48 board links to C:\Users\ashle\Documents\Claude\job_search\output\jobs_2026-04-15.xlsx
+2026-04-15 20:43:24,081 [INFO] ======================================================================
+2026-04-15 20:43:24,081 [INFO] Job scraper started — 2026-04-15 20:43
+2026-04-15 20:43:24,081 [WARNING] The following free API keys are not configured — those sources will be skipped:
+  • ADZUNA_APP_ID / ADZUNA_APP_KEY (https://developer.adzuna.com/)
+  • USAJOBS_API_KEY / USAJOBS_EMAIL (https://developer.usajobs.gov/)
+  • JOOBLE_API_KEY (https://jooble.org/api/about)
+Set them as environment variables or paste them at the top of job_scraper.py
+2026-04-15 20:43:24,081 [INFO] ── mass spectrometry ──
+2026-04-15 20:43:26,863 [INFO] jobs.ac.uk [mass spectrometry]: 0 jobs
+2026-04-15 20:43:27,867 [INFO] ── proteomics ──
+2026-04-15 20:43:30,839 [INFO] jobs.ac.uk [proteomics]: 0 jobs
+2026-04-15 20:43:31,844 [INFO] ── top-down proteomics ──
+2026-04-15 20:43:34,220 [INFO] jobs.ac.uk [top-down proteomics]: 0 jobs
+2026-04-15 20:43:35,223 [INFO] ── analytical chemistry research scientist ──
+2026-04-15 20:43:37,784 [INFO] jobs.ac.uk [analytical chemistry research scientist]: 0 jobs
+2026-04-15 20:43:38,791 [INFO] ── protein biochemistry scientist ──
+2026-04-15 20:43:42,142 [INFO] jobs.ac.uk [protein biochemistry scientist]: 0 jobs
+2026-04-15 20:43:43,146 [INFO] ── mass spectrometry scientist ──
+2026-04-15 20:43:45,511 [INFO] jobs.ac.uk [mass spectrometry scientist]: 0 jobs
+2026-04-15 20:43:46,513 [INFO] ── research scientist biochemistry ──
+2026-04-15 20:43:48,954 [INFO] jobs.ac.uk [research scientist biochemistry]: 0 jobs
+2026-04-15 20:43:49,958 [INFO] Real job listings: 0  |  Board search links: 48
+2026-04-15 20:43:50,039 [INFO] Saved 0 job rows + 48 board links to C:\Users\ashle\Documents\Claude\job_search\output\jobs_2026-04-15.xlsx
+2026-04-15 20:43:50,039 [INFO] Finished — 2026-04-15 20:43
+2026-04-15 20:48:22,874 [INFO] ======================================================================
+2026-04-15 20:48:22,874 [INFO] Job scraper started — 2026-04-15 20:48
+2026-04-15 20:48:22,874 [WARNING] The following free API keys are not configured — those sources will be skipped:
+  • USAJOBS_API_KEY / USAJOBS_EMAIL (https://developer.usajobs.gov/)
+  • JOOBLE_API_KEY (https://jooble.org/api/about)
+Set them as environment variables or paste them at the top of job_scraper.py
+2026-04-15 20:48:22,874 [INFO] ── mass spectrometry ──
+2026-04-15 20:48:37,980 [INFO] Adzuna [mass spectrometry]: 1 jobs
+2026-04-15 20:48:41,463 [INFO] jobs.ac.uk [mass spectrometry]: 0 jobs
+2026-04-15 20:48:42,467 [INFO] ── proteomics ──
+2026-04-15 20:48:57,269 [INFO] Adzuna [proteomics]: 2 jobs
+2026-04-15 20:49:00,120 [INFO] jobs.ac.uk [proteomics]: 0 jobs
+2026-04-15 20:49:01,122 [INFO] ── top-down proteomics ──
+2026-04-15 20:49:14,002 [INFO] Adzuna [top-down proteomics]: 0 jobs
+2026-04-15 20:49:17,688 [INFO] jobs.ac.uk [top-down proteomics]: 0 jobs
+2026-04-15 20:49:18,689 [INFO] ── analytical chemistry research scientist ──
+2026-04-15 20:49:32,407 [INFO] Adzuna [analytical chemistry research scientist]: 0 jobs
+2026-04-15 20:49:35,127 [INFO] jobs.ac.uk [analytical chemistry research scientist]: 0 jobs
+2026-04-15 20:49:36,130 [INFO] ── protein biochemistry scientist ──
+2026-04-15 20:49:48,699 [INFO] Adzuna [protein biochemistry scientist]: 1 jobs
+2026-04-15 20:49:52,367 [INFO] jobs.ac.uk [protein biochemistry scientist]: 0 jobs
+2026-04-15 20:49:53,370 [INFO] ── mass spectrometry scientist ──
+2026-04-15 20:50:08,310 [INFO] Adzuna [mass spectrometry scientist]: 2 jobs
+2026-04-15 20:50:11,517 [INFO] jobs.ac.uk [mass spectrometry scientist]: 0 jobs
+2026-04-15 20:50:12,521 [INFO] ── research scientist biochemistry ──
+2026-04-15 20:50:25,015 [INFO] Adzuna [research scientist biochemistry]: 0 jobs
+2026-04-15 20:50:28,359 [INFO] jobs.ac.uk [research scientist biochemistry]: 0 jobs
+2026-04-15 20:50:29,365 [INFO] Real job listings: 4  |  Board search links: 48
+2026-04-15 20:50:29,456 [INFO] Saved 4 job rows + 48 board links to C:\Users\ashle\Documents\Claude\job_search\output\jobs_2026-04-15.xlsx
+2026-04-15 20:50:29,456 [INFO] Finished — 2026-04-15 20:50
+2026-04-17 08:00:06,703 [INFO] ======================================================================
+2026-04-17 08:00:06,713 [INFO] Job scraper started — 2026-04-17 08:00
+2026-04-17 08:00:06,713 [WARNING] The following free API keys are not configured — those sources will be skipped:
+  • JOOBLE_API_KEY (https://jooble.org/api/about)
+Set them as environment variables or paste them at the top of job_scraper.py
+2026-04-17 08:00:06,713 [INFO] ── mass spectrometry ──
+2026-04-17 08:00:33,835 [INFO] Adzuna [mass spectrometry]: 2 jobs
+2026-04-17 08:00:34,572 [INFO] USAJobs [mass spectrometry]: 0 jobs
+2026-04-17 08:00:37,770 [INFO] jobs.ac.uk [mass spectrometry]: 0 jobs
+2026-04-17 08:00:38,777 [INFO] ── proteomics ──
+2026-04-17 08:00:59,077 [INFO] Adzuna [proteomics]: 4 jobs
+2026-04-17 08:00:59,603 [INFO] USAJobs [proteomics]: 0 jobs
+2026-04-17 08:01:05,215 [INFO] jobs.ac.uk [proteomics]: 0 jobs
+2026-04-17 08:01:06,221 [INFO] ── top-down proteomics ──
+2026-04-17 08:01:19,559 [INFO] Adzuna [top-down proteomics]: 0 jobs
+2026-04-17 08:01:20,159 [INFO] USAJobs [top-down proteomics]: 0 jobs
+2026-04-17 08:01:23,004 [INFO] jobs.ac.uk [top-down proteomics]: 0 jobs
+2026-04-17 08:01:24,015 [INFO] ── analytical chemistry research scientist ──
+2026-04-17 08:01:37,338 [INFO] Adzuna [analytical chemistry research scientist]: 0 jobs
+2026-04-17 08:01:38,275 [INFO] USAJobs [analytical chemistry research scientist]: 0 jobs
+2026-04-17 08:01:41,224 [INFO] jobs.ac.uk [analytical chemistry research scientist]: 0 jobs
+2026-04-17 08:01:42,233 [INFO] ── protein biochemistry scientist ──
+2026-04-17 08:01:54,743 [INFO] Adzuna [protein biochemistry scientist]: 1 jobs
+2026-04-17 08:01:55,470 [INFO] USAJobs [protein biochemistry scientist]: 0 jobs
+2026-04-17 08:01:58,245 [INFO] jobs.ac.uk [protein biochemistry scientist]: 0 jobs
+2026-04-17 08:01:59,256 [INFO] ── mass spectrometry scientist ──
+2026-04-17 08:02:13,517 [INFO] Adzuna [mass spectrometry scientist]: 2 jobs
+2026-04-17 08:02:13,885 [INFO] USAJobs [mass spectrometry scientist]: 0 jobs
+2026-04-17 08:02:16,663 [INFO] jobs.ac.uk [mass spectrometry scientist]: 0 jobs
+2026-04-17 08:02:17,675 [INFO] ── research scientist biochemistry ──
+2026-04-17 08:02:30,247 [INFO] Adzuna [research scientist biochemistry]: 0 jobs
+2026-04-17 08:02:31,105 [INFO] USAJobs [research scientist biochemistry]: 0 jobs
+2026-04-17 08:02:33,872 [INFO] jobs.ac.uk [research scientist biochemistry]: 0 jobs
+2026-04-17 08:02:34,873 [INFO] Real job listings: 6  |  Board search links: 48
+2026-04-17 08:02:35,015 [INFO] Saved 6 job rows + 48 board links to C:\Users\ashle\Documents\Claude\job_search\output\jobs_2026-04-17.xlsx
+2026-04-17 08:02:35,015 [INFO] Finished — 2026-04-17 08:02
+2026-04-17 15:48:41,157 [INFO] ======================================================================
+2026-04-17 15:48:41,157 [INFO] Job scraper started — 2026-04-17 15:48
+2026-04-17 15:48:41,157 [WARNING] The following free API keys are not configured — those sources will be skipped:
+  • USAJOBS_API_KEY / USAJOBS_EMAIL (https://developer.usajobs.gov/)
+  • JOOBLE_API_KEY (https://jooble.org/api/about)
+Set them as environment variables or paste them at the top of job_scraper.py
+2026-04-17 15:48:41,158 [INFO] ── mass spectrometry ──
+2026-04-17 15:48:55,402 [INFO] Adzuna [mass spectrometry]: 2 jobs
+2026-04-17 15:48:58,426 [INFO] jobs.ac.uk [mass spectrometry]: 0 jobs
+2026-04-17 15:49:18,912 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=mass+spectrometry&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:49:30,455 [INFO] SerpAPI/Google Jobs [mass spectrometry]: 20 jobs
+2026-04-17 15:49:31,456 [INFO] ── proteomics ──
+2026-04-17 15:49:46,301 [INFO] Adzuna [proteomics]: 4 jobs
+2026-04-17 15:49:49,654 [INFO] jobs.ac.uk [proteomics]: 0 jobs
+2026-04-17 15:50:07,021 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=proteomics&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:50:14,065 [INFO] SerpAPI/Google Jobs [proteomics]: 21 jobs
+2026-04-17 15:50:15,066 [INFO] ── top-down proteomics ──
+2026-04-17 15:50:27,886 [INFO] Adzuna [top-down proteomics]: 0 jobs
+2026-04-17 15:50:30,570 [INFO] jobs.ac.uk [top-down proteomics]: 0 jobs
+2026-04-17 15:50:41,779 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=top-down+proteomics&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:50:50,025 [INFO] SerpAPI/Google Jobs [top-down proteomics]: 0 jobs
+2026-04-17 15:50:51,026 [INFO] ── analytical chemistry research scientist ──
+2026-04-17 15:51:03,755 [INFO] Adzuna [analytical chemistry research scientist]: 0 jobs
+2026-04-17 15:51:06,434 [INFO] jobs.ac.uk [analytical chemistry research scientist]: 0 jobs
+2026-04-17 15:51:21,118 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=analytical+chemistry+research+scientist&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:51:31,766 [INFO] SerpAPI/Google Jobs [analytical chemistry research scientist]: 21 jobs
+2026-04-17 15:51:32,767 [INFO] ── protein biochemistry scientist ──
+2026-04-17 15:51:45,157 [INFO] Adzuna [protein biochemistry scientist]: 1 jobs
+2026-04-17 15:51:48,018 [INFO] jobs.ac.uk [protein biochemistry scientist]: 0 jobs
+2026-04-17 15:52:02,045 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=protein+biochemistry+scientist&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:52:10,944 [INFO] SerpAPI/Google Jobs [protein biochemistry scientist]: 19 jobs
+2026-04-17 15:52:11,945 [INFO] ── mass spectrometry scientist ──
+2026-04-17 15:52:25,139 [INFO] Adzuna [mass spectrometry scientist]: 2 jobs
+2026-04-17 15:52:28,337 [INFO] jobs.ac.uk [mass spectrometry scientist]: 0 jobs
+2026-04-17 15:52:50,879 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=mass+spectrometry+scientist&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:53:01,678 [INFO] SerpAPI/Google Jobs [mass spectrometry scientist]: 16 jobs
+2026-04-17 15:53:02,679 [INFO] ── research scientist biochemistry ──
+2026-04-17 15:53:15,652 [INFO] Adzuna [research scientist biochemistry]: 0 jobs
+2026-04-17 15:53:19,072 [INFO] jobs.ac.uk [research scientist biochemistry]: 0 jobs
+2026-04-17 15:53:32,307 [WARNING] All retries failed: https://serpapi.com/search?engine=google_jobs&q=research+scientist+biochemistry&location=Remote&hl=en&api_key=1210831b18136831290b9082654a2c8b402d00de7bed4903497e8ff2c23ff651
+2026-04-17 15:53:39,204 [INFO] SerpAPI/Google Jobs [research scientist biochemistry]: 19 jobs
+2026-04-17 15:53:40,205 [INFO] Real job listings: 105  |  Board search links: 48
+2026-04-17 15:53:40,365 [INFO] Saved 105 job rows + 48 board links to C:\Users\ashle\Documents\Claude\job_search\output\jobs_2026-04-17.xlsx
+2026-04-17 15:53:40,365 [INFO] Finished — 2026-04-17 15:53
